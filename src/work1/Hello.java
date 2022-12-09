@@ -10,6 +10,10 @@ public class Hello {
 
         System.out.println("made few commit");
 
+        System.out.println("GitHub repo is already published to github");
+
+
+
 
     }
 }
